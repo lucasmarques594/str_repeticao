@@ -51,4 +51,5 @@ for num in range(0,50,10):
     print(num)
 
 #Forma 4
-for num in range(10, 0, -1)
+for num in range(10, 0, -1):
+    print(num)
